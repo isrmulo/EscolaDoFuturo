@@ -1,4 +1,4 @@
-# EscolaDoFuturo
+# Escola Futuro Brilhante 
 # Documentação do Código
 
 ## Resumo
